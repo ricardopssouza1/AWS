@@ -9,3 +9,5 @@
 - [ Como criar CRAWLERS no AWS GLUE](https://www.youtube.com/watch?v=X_sGf6WAz9Y&list=PLw72mMHlCkEJbdM-iuo1PZuJq-KF1KE2F&index=14)
 
 - [ Criando processos ETL para Data Lakes com AWS GLUE](https://www.youtube.com/watch?v=P3z4IX5-OHM)
+
+- [ AWS Glue Demo](https://www.youtube.com/watch?v=8t5pNcSnebQ)
